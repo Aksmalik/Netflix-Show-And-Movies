@@ -1,4 +1,4 @@
-	🎬 Netflix Content Analytics Dashboard
+🎬Netflix Content Analytics Dashboard
 
 A dynamic, interactive data visualization project built to explore trends in movies and TV shows on Netflix — focusing on ratings, release trends, runtime patterns, and audience engagement over time.
 

@@ -1,10 +1,10 @@
-#🎬 Netflix Content Analytics Dashboard
+	🎬 Netflix Content Analytics Dashboard
 
 A dynamic, interactive data visualization project built to explore trends in movies and TV shows on Netflix — focusing on ratings, release trends, runtime patterns, and audience engagement over time.
 
 ⸻
 
-##2. Short Description / Purpose
+2. Short Description / Purpose
 
 The Netflix Content Analytics Dashboard is an interactive Power BI report designed to analyze historical trends in movies and TV shows, helping users understand how content production, ratings, and viewer engagement have evolved over the past several decades.
 
@@ -12,7 +12,7 @@ This dashboard is intended for data analysts, entertainment enthusiasts, and bus
 
 ⸻
 
-##3. Tech Stack
+3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -24,7 +24,7 @@ The dashboard was built using the following tools and technologies:
 
 ⸻
 
-##4. Data Source
+4. Data Source
 
 Source: Public Netflix dataset (including movie and TV show metadata).
 
@@ -41,7 +41,7 @@ This structured dataset enables analysis of content trends, audience engagement,
 
 ⸻
 
-##5. Features / Highlights
+5. Features / Highlights
 
 * Business Problem
 
@@ -101,4 +101,3 @@ Audience Preference Analysis: Reveals how ratings vary by certification and over
 Trend Discovery: Shows significant growth in content production and viewer interaction in recent years.
 
 Decision Support: Useful for analysts and media strategists to understand performance patterns and evolving viewer behavior.
-  

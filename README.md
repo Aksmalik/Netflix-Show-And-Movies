@@ -101,3 +101,6 @@ Audience Preference Analysis: Reveals how ratings vary by certification and over
 Trend Discovery: Shows significant growth in content production and viewer interaction in recent years.
 
 Decision Support: Useful for analysts and media strategists to understand performance patterns and evolving viewer behavior.
+
+6. Screenshots / Demos
+Show what the dashboard looks like.(https://github.com/Aksmalik/Netflix-Show-And-Movies/blob/main/Netflix%20Dashbord%20VIEW.png)

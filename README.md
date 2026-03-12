@@ -29,12 +29,19 @@ The dashboard was built using the following tools and technologies:
 Source: Public Netflix dataset (including movie and TV show metadata).
 
 The dataset contains information such as:
+
 	•	Title
+	
 	•	Release year
+	
 	•	Content type (Movie / TV Show)
+	
 	•	IMDb rating
+	
 	•	IMDb votes
+	
 	•	Runtime
+	
 	•	Age certification
 
 This structured dataset enables analysis of content trends, audience engagement, and performance metrics across decades.
@@ -49,8 +56,11 @@ With the rapid growth of streaming platforms, understanding what drives content 
 
 Key questions include:
 	•	How has Netflix content volume grown over time?
+	
 	•	Do movies or TV shows have higher engagement?
+	
 	•	How do IMDb ratings vary across age certifications?
+	
 	•	What trends exist in runtime and viewer votes?
 
 Raw datasets make it difficult to quickly uncover these insights without visualization.
@@ -61,8 +71,11 @@ Raw datasets make it difficult to quickly uncover these insights without visuali
 
 To deliver an interactive analytical tool that:
 	•	Enables exploration of Netflix content trends across decades
+	
 	•	Compares ratings, votes, and runtime patterns
+	
 	•	Helps identify audience engagement patterns
+	
 	•	Supports data-driven insights into content performance
 
 ⸻
